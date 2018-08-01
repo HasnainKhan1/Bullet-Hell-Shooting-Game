@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net461</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="GameManagers\EnemyTime.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BH-STG.Domain\BH-STG.Domain.csproj" />
+    <ProjectReference Include="..\BH-STG.SharedKernel\BH-STG.SharedKernel.csproj" />
+  </ItemGroup>
+
+</Project>

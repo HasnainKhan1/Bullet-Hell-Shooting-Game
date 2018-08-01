@@ -1,0 +1,114 @@
+﻿Opening page has <Game Start, Extra Start, Practice Start, Replay, Player Data, Music Room, Option, Quit> 
+Player icon stands mid bottom at the beginning. It can be moved since this moment.
+00:09 on the video shows 10 normal enemies standing abreast from top left (Their position can be overlapped)
+and then they move upward and disappear before the beginning of the actual game. It shows stage number when they move.
+00:17, 4 enemies come down from top left and leave through mid-right of the screen.
+When 4 of them are heading to mid right side, 5 enemies come down from top right and go through the mid-left side.
+5 enemies going to mid left side, one butterfly enemy stands on its position, 
+[bz: this is not the mid boss. It's just a different type of regular enemy. You may call it the "butterfly enemy" if you wish to avoid confusion.]
+
+top right. It shots four times of triangle-shaped bullets (each triangle has 6 of projectiles), 
+[bz: I need you guys to think about how the bullets are moving, especially, what direction are they moving in? In fact, "movements" and "patterns" of the bullets are very important for the analysis. "Movement" is also an very important of the enemies.]
+
+and when it shots second set of bullets, five normal enemies come down from top right side and go to mid-left. Five other enemies come down from top left and now go through mid-right.
+
+00:27, those normal enemies are heading to mid-right side of the screen, and the butterfly enemy who finishes shooting several bullets is idly floating and moving left side. 
+New butterfly enemy comes down from top, and takes its position on top left side. Similarly, it shots 4 sets of bullets and when it shots second set, 10 normal enemies make a horizontal line from top right (opposite to 00:09).
+After shooting all, the butterfly enemy goes to the mid-right side slowly, and 10 normal enemies also goes up to disappear. 
+When they are moving up, many normal enemies start to come down from both top left and top right. They seem like 5 of them is a team.
+00:34, five normal enemies appear from top right. Then, five come down from top left and another five come down from top right at the same time. And they go cross each other to move out to the screen. It is repeated once more time. (The starting points are getting closer to each other) 
+Lastly, one set of five normal enemies come down from more likely to call top middle and go to right side of the screen. 
+00:41, the third butterfly enemy comes down and stands mid top and starts to shoot 4 sets of bullets again. In the meantime, 5 and 5 normal enemies come down from top left and top right respectively and both go to mid right side of the screen. 
+When the butterfly enemy is shooting the last set of bullets, three, four, and four red normal enemies and four, four, and four blue normal enemies come down from the top and make a horizontal line. First three red enemies position in the middle, and four sets of them get further after dividing two and two.
+Even the rest of the normal enemies are still coming down, as the butterfly enemy’s four shooting is done, the normal enemies in the right position start to shoot blue circled bullets. Each bullet comes from one normal enemy. 
+They move upward with the same order of their appearance. 
+
+00:48, top of the screen shows a timer from 26, and a mid boss stands its random position. 
+[bz: this is the mid boss]
+
+It shots three sets of fan-shaped 6 bullets. Outlined two sets have white color, while the last one set of bullets are red. Then it moves to another position. Now it shots three sets of circled 16 bullets which are white.
+
+[bz: the rest of the video?]
+
+
+00:57 – the mid-boss is attacking with random bullets. Mid-boss
+life bar is displayed. There are two different attacks. One that explodes from
+all angles of boss and another that shoots towards player. The boss moves
+mostly side to side occasionally.
+
+01:09 – two angels spawn and mirror each other’s erratic
+movements. They shoot quite frequently. Their bullets are triangular.
+
+01:15 – several miniature angels spawn and have slow linear
+movement toward bottom of screen. The mid-boss leaves and so does its health
+bar
+
+01:20 – several miniature angels spawn and create a line
+across screen. Then they fire bullets starting middle of the line and going
+outwards.
+
+01:27 – There is a brief dialogue between the main boss and
+the player.
+
+01:35 – after dialogue, the game proceeds as the main boss (Phase 1)
+appears and seems to power up. A circular ring of light enclosing David’s star
+rotates counter clockwise around the boss. The first attack is a wild spiral bullet 
+attack. Along with this attack happening occasionally, there is an exploding bullet attack 
+that pulses as it emanates outward.
+  -one big spiral that moves straight down at the player location (does not change direction once shot), then two sets of exploding sphere bullets
+  -this pattern continues SEVEN more times
+  -ends with the beginning of a spiral that is ultimately just cleared from the screen as the 45 second timer expires at 2:21
+  
+2:21 - Phase 2 of Final boss fight begins
+boss fires a circle of bullets around herself. Each bullet breaks into two and they rotate in opposite directions around the boss as the emanate outward. 
+  -Boss movement is small and mostly near the center top of the screen, she does move before each time she shoots
+  -Shooting actually starts at 2:23, even though the round has begun
+  -TWELVE shots fired before the player is hit (boss is about to fire again, but all bullets are cleared)
+
+2:45 - player is hit, 7 cubes shoot up from the player in a sort of a semi circle and fall backdown, player does not collect any of them. 
+
+2:48 - Play resumes for the boss fight.
+Boss in top right of screen. Fires circles of bullets that break into a set of two bullets (per bullet) that rotate in opposite directions as they move out away from where they were fired.
+
+This happens FOUR times between 2:50 and 2:57
+
+2:57 - Player is hit and seven cubes shoot out in a semi circle from the player, then fall back down.
+Bullets are cleared from the screen when player is hit. Player collects two of the cubes (power up goes up)
+
+3:00 - Attack begins again.
+Boss in top right of screen. Fires circles of bullets that break into a set of two bullets (per bullet) that rotate in opposite directions as they move out away from where they were fired.
+
+FOUR times between 3:00 and 3:06
+
+3:06 - Round ends (bonus failed) and time is reset to 45.
+
+3:08 - New round starts (Final Boss Phase 3)
+
+3:08 - 3:38
+Boss moves somewhat moves in a triangle pattern, stops and shoots then moves to next location (repeating shots)
+
+  - starts with 2 sets of sphere bullets that rotate in a circle as they move away from boss, Then get 3 sets of swirly bullets that seem to be fired at the same-ish time.
+  This happens FOUR more times
+  
+  Boss releases 2 sets of the sphere bullets and the player is hit at 3:38 by the last sets swirly bullets near the bottom right of screen.
+  
+Screen clears and the 7 cubes appear again.
+
+3:41 - Boss starts attacking again. Powerup Cubes are still falling when the boss continues her attack.
+This time starts with the 3 swirly sets of bullets and then 2 sets of sphere bullets (starts in the middle)
+ONE more set of Swirlies then spheres
+ONE set of Swirlies that are interrupted by the end of the round
+
+3:50 - Phase 3 of Boss fight ends, all bullets disappear
+
+3:54 phase 4 of boss fight starts
+3:54: The final boss reappear for the final time. This time the bullet pattern is totally different. 
+It shoots red bullets in a random order and also shoots out laser. 
+The laser was being shot from 8 different reference points covering all sides of the stage. 
+Again the boss was moving at a random spawn points. 
+Every time the final boss appears it stays on the stage for 45 seconds 
+
+
+
+
+

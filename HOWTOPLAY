@@ -1,0 +1,7 @@
+Player Controls:
+  - Move the player using the arrow keys OR the WASD keys
+  - The player starts in slow mode, hold down "Z" while controlling the character to enter fast mode as long as the button is held down 
+  - Press the space bar to shoot at enemies
+  - The player has two bombs that clear enemies and bullets in a small area around the player. Press "B" to use a bomb.
+  - Easy/Cheat Mode - press and hold "C" to make your character invulnerable while the key is held down.
+  - Pause the game by pressing "P".
